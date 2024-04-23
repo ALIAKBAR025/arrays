@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\bin\Debug\net8.0\21.04.2024.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\bin\Debug\net8.0\21.04.2024.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\bin\Debug\net8.0\21.04.2024.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\bin\Debug\net8.0\21.04.2024.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\bin\Debug\net8.0\21.04.2024.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\refint\21.04.2024.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\21.04.2024.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\21.04.2024\obj\Debug\net8.0\ref\21.04.2024.dll
